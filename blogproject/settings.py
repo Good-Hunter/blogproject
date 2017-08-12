@@ -24,7 +24,7 @@ SECRET_KEY = '(c2pmjc$3o-smhy*+2e)q=9h%$^2-gphg05+np!f^wgbf&_=et'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost ', '.good-hunter.com']
+ALLOWED_HOSTS = ['localhost ', '.good-hunter.com']
 
 
 
